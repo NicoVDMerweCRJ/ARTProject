@@ -1,0 +1,17 @@
+{
+  "name": "FirstAR_UE4",
+  "version": "1.0.0",
+  "description": "GAM730 collaborative development",
+ 
+  "scripts": {
+    "start": "",
+    "test": "echo!"
+  },
+  "keywords": [
+    "AR",
+    "UNREAL",
+    "NODES"
+  ],
+  "author": "",
+  "license": ""
+}
